@@ -4,7 +4,7 @@ Question Number ===> 24
 
 Programming Language ===> Python
 
-Program description ===> 24th Exercise
+Program Description ===> 24th Exercise
 
 Example ===> Write A Program That Deletes Duplicate Numbers From The Following List
 
